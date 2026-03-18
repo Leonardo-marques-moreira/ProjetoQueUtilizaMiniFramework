@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../MiniFramework/out/artifacts/MiniFramework_jar/MiniFramework.jar!/" />
+          <root url="jar://$MODULE_DIR$/../MiniFramework/MiniFramework/out/artifacts/MiniFramework_jar/MiniFramework.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
